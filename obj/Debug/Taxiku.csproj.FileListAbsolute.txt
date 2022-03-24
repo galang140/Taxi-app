@@ -1,0 +1,6 @@
+D:\Taxi\Taxiku\bin\Debug\Taxiku.exe.config
+D:\Taxi\Taxiku\bin\Debug\Taxiku.exe
+D:\Taxi\Taxiku\bin\Debug\Taxiku.pdb
+D:\Taxi\Taxiku\obj\Debug\Taxiku.csprojResolveAssemblyReference.cache
+D:\Taxi\Taxiku\obj\Debug\Taxiku.exe
+D:\Taxi\Taxiku\obj\Debug\Taxiku.pdb
